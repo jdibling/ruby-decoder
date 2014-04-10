@@ -1,0 +1,5 @@
+reading source dir
+found 5447 files
+Found 27 mp3 files
+Found 5420 flac files
+Getting tags...

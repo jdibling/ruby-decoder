@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+$: << "lib"
+
+require 'decoder/app'
+
+app = Decoder::App.new(ARGV)
+app.run
+
